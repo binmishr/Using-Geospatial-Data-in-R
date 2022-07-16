@@ -1,5 +1,8 @@
 # Using-Geospatial-Data-in-R
 
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
+
 The use of geospatial data – data that can be mapped using geographic information systems (GIS) – has become increasingly widespread in the social sciences. Applications not only extend to the analysis of classical geographical entities (e.g., policy diffusion across spatially proximate countries) but increasingly also to analyses of micro-level data, including respondent information from georeferenced surveys or user trace data from Tweets. In this Methods Bites Tutorial, Stefan Jünger (GESIS) and Denis Cohen (MZES) show how to retrieve, manage, and visualize geospatial data in R.
 
 After reading this blog post and engaging with the applied exercises, readers will be able to:
